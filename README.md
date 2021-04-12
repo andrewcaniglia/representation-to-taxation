@@ -4,6 +4,6 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I found a wikipedia table that had the tax information I needed here: 
 
-https://en.wikipedia.org/wiki/Federal_tax_revenue_by_state. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://en.wikipedia.org/wiki/Federal_tax_revenue_by_state. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I knew I had to use Python's BeautifulSoup package in order to scrape this data and analyze it effectively. Here I will demonstrate how to do so as well as reveal my findings of how a state's federal representation compares to their federal taxation. 
