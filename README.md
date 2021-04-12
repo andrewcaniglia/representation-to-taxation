@@ -1,4 +1,4 @@
-# representationToTaxation
+# A Look At How Each State's Federal Taxation Compares To Its Representation
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the United States, we have a system where the representation a state has in governance is determined by its population. During the 2020 election, I wondered if the amount of federal tax a state collects has an impact on its perceived importance in federal affairs. While this metric is subjective, understanding how the amount of federal tax a state collects compares to its population number and thus its representation might serve as an interesting conversation starter.
   
